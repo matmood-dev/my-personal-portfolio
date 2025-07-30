@@ -1,5 +1,14 @@
 {
-  "welcome": "Welcome to my Portfolio",
-  "description": "I am a Software Engineer",
-  "contact": "Contact Me"
+  "home": {
+    "welcome": "Hi, I'm Mahmood 👋",
+    "description": "I'm a passionate Software Engineer.",
+    "contact": "Contact Me",
+    "projects": "View Projects"
+  },
+
+  "projects": {
+    "projects_title": "Featured Projects",
+    "projects_subtitle": "Some things I've built recently",
+    "view_button": "View Project"
+  }
 }
